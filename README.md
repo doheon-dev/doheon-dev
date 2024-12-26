@@ -2,8 +2,8 @@
 
 <div>
   <!--Body-->
-  
-  ## 👀 Hi there, About Me 👋
+  ## Hi there, i'm doheon  👋
+  ## About Me 👀
   #### :raising_hand: I am a Frontend Developer from South Korea.<br/>
   #### :fire: I aim to become a Fullstack Developer.<br/>
   <br/>
@@ -40,14 +40,14 @@
 
   
   ## 🤔 Github Stats
-  <!-- -->
-
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doheon-dev)](https://github.com/doheon-dev/github-readme-stats)
     <br/>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2 align="center"> 🎨 Stack <br> </p>
@@ -59,7 +59,7 @@
 
  
 <p align="right">
-<!--
+
 <a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 -->
