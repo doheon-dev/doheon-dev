@@ -1,9 +1,9 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## 👀 Hi there, About Me 👋
   #### :raising_hand: I am a Frontend Developer from South Korea.<br/>
   #### :fire: I aim to become a Fullstack Developer.<br/>
   <br/>
@@ -38,12 +38,14 @@
   <br/>
   <br/>
 
-  <!--
+  
   ## 🤔 Github Stats
+  <!--
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  -->
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  -->
+  
   
 </div>
 
