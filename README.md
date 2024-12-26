@@ -3,7 +3,7 @@
 <div>
   <!--Body-->
   ## Hi there, i'm doheon  👋
-  ## About Me 👀
+  ### About Me 👀
   #### :raising_hand: I am a Frontend Developer from South Korea.<br/>
   #### :fire: I aim to become a Fullstack Developer.<br/>
   <br/>
