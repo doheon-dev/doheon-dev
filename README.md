@@ -3,7 +3,7 @@
 
 <div>
   <!--Body-->
-  ## Hi there, i'm doheon  👋
+ 
   #### :raising_hand: I am a Frontend Developer from South Korea.<br/>
   #### :fire: I aim to become a Fullstack Developer.<br/>
   <br/>
@@ -42,6 +42,8 @@
   ## 🤔 Github Stats
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doheon-dev)](https://github.com/doheon-dev/github-readme-stats)
+    <br/>
+ <!-- [![doehon's GitHub stats](https://github-readme-stats.vercel.app/api?username=doheon-dev)](https://github.com/doheon-dev/github-readme-stats) -->
 
 </div>
 
