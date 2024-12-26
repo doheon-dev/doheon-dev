@@ -21,20 +21,20 @@
   
   ### Framework
   <!--Vue-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuedotjs-#4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <!--Angular-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular-#0F0F11?style=flat-square&logo=angular&logoColor=white"/>
   <!--Spring Boot-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <br/>
   
   ### ETC
   <!--Node-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--SVN-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <!--postgresql-->
   <img src="https://img.shields.io/badge/postgresql-#4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <!--jenkins-->
+  <img src="https://img.shields.io/badge/jenkins-#D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <br/>
   <br/>
   
