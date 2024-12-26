@@ -1,10 +1,11 @@
 <!-- ## Hi there 👋 -->
 <!--### About Me 👀-->
-##  Hi there, i'm doheon 👋
+
 <div>
   <!--Body-->
-  #### :raising_hand: I am a Frontend Developer from South Korea.<br/>
-  #### :fire: I aim to become a Fullstack Developer.<br/>
+  ##  Hi there, i'm doheon 👋
+  ### :raising_hand: I am a Frontend Developer from South Korea.<br/>
+  ### :fire: I aim to become a Fullstack Developer.<br/>
   <br/>
   <br/>
   
